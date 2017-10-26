@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is one.after
+=======
+this is one.before
+>>>>>>> dev
 and this is two.
